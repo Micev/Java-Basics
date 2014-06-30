@@ -1,0 +1,1 @@
+jar -cf MyFirstJar.jar .classpath .project times.ttf bin/DeckOfCards.class lib/itextpdf-5.5.0.jar
